@@ -82,7 +82,7 @@ def adding_matz
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        },
         :yukihiro_matsumoto => {
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
